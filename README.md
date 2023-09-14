@@ -19,8 +19,7 @@ Hello! I'm a systems engineer with experience developing with python, java, html
 ## Contact 📬
 
 I'd love to connect with you and collaborate on interesting projects! You can find me at:
-
-- **LinkedIn:** linkedin.com/in/luis-carlos-rincon-gordo-303513255
+- **LinkedIn:** [/in/LuisCarlosRinconGordo](https://www.linkedin.com/in/luis-carlos-rincon-gordo-303513255/) 
 - **Email:** luiscarlosrincongordo@gmail.com 📧
 
 
