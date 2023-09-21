@@ -18,11 +18,8 @@ Hello! I'm a systems engineer with experience developing with python, java, html
 
 ## Contact 📬
 I'd love to connect with you and collaborate on interesting projects! You can find me at:
-<p align="left">
-<a href="https://www.linkedin.com/in/luis-carlos-rincon-gordo-303513255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="company/codegrills" height="30" width="40" /></a>
-</p>
-
 - 📫 How to reach me **luiscarlosrincongordo@gmail.com**
+- **👤LinkedIn:** [/in/luis-carlos-rincon-gordo-303513255/](https://www.linkedin.com/in/luis-carlos-rincon-gordo-303513255)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisCarlosRinconG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&bg_color=000000&title_color=3498db&icon_color=3498db" height="150" alt="languages" />
