@@ -24,7 +24,7 @@ I'd love to connect with you and collaborate on interesting projects! You can fi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisCarlosRinconG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&bg_color=000000&title_color=3498db&icon_color=3498db" height="150" alt="languages" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXF4dGJtbzdoa3Iydm93djR1ZGhjM281ZnM1YWtnMTA3Y3RiNWR5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="150" alt="Developer">
+  <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47wytjdjo3o14axzovkee5ona8qnlz2qsaamukhlmz&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="150" alt="Developer">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCarlosRinconG&theme=dracula&hide_border=false&bg_color=000000&title_color=3498db&icon_color=3498db&theme=dark&background=000000" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=LuisCarlosRinconG&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&bg_color=000000&title_color=3498db&icon_color=3498db" height="150" alt="GitHub Stats" />
